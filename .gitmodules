@@ -1,0 +1,2 @@
+[submodule "integration_3/src/livox/pcl_msgs"]
+	shallow = true
